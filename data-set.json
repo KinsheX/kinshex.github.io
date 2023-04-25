@@ -1,5 +1,6 @@
 {
     "AtSC Heroic": "data/33_4.json",
     "AtSC Mythic": "data/33_5.json",
-    "M+ 15+": "data/34_15-99.json"
+    "M+ 15+": "data/34_15-99.json",
+    "(Old) M+ 15+": "data/34_15-99_old.json"
 }
